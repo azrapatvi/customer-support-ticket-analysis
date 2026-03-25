@@ -1,4 +1,4 @@
-# 📊 Customer Support Ticket Analysis — README
+# 📊 Customer Support Ticket Analysis 
 
 > A complete beginner-friendly guide to understanding this data analysis project
 
